@@ -1,0 +1,21 @@
+/* Write your code here. */
+.bg {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  height: 100vh;
+  background-size: cover;
+  padding: 38px;
+}
+.img-container {
+  min-width: 100%;
+}
+img {
+  width: 100%;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  padding: 0%;
+  flex-wrap: wrap;
+}
